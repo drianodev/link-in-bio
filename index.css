@@ -8,6 +8,7 @@ body, html {
 body {
   background: url(./images/bg01.png) no-repeat center center fixed;
   background-size: cover;
+  overflow: hidden;
 }
 
 main {
